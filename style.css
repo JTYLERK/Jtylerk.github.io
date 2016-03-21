@@ -1,10 +1,17 @@
 body{background-color: lightgreen;}
 
 
-* {outline: 1px solid red;}
-
-
 footer {
 	text-align: center;
 	display: block;
+}
+
+.steps {
+	border-radius: 10px;
+	display: block;
+}
+
+fieldset {
+	width: 200px;
+	margin: 15px;
 }
