@@ -3,3 +3,9 @@ body{background-color: lightgreen;}
 footer {
 	text-align: center;
 }
+
+fieldset {
+	padding: 10px;
+	margin: 20px;
+	width: 200px;
+}
