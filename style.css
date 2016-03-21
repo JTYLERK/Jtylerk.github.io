@@ -1,24 +1,8 @@
 body{background-color: lightgreen;}
 
 
-fieldset {
-	padding: 10px;
-	margin: 20px;
-	width: 200px;
-	display: block;
-	float: left;
-}
-
-h2 {
-	display: block;
-	float: left;
-}
-
 * {outline: 1px solid red;}
 
-input.checklist {
-	display: block;
-}
 
 footer {
 	text-align: center;
