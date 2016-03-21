@@ -1,1 +1,13 @@
 body{background-color: lightgreen;}
+
+.steps {
+
+	background-color: salmon;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+}
+
