@@ -42,3 +42,12 @@ div#intro {
     font-size: 12px;
   }
 }
+
+
+/* trying insert image to step 2 box using check class tag to denote which emlement 
+to dispay in. Used the code below proviced on W3schools.com */
+
+u.check {
+    background-image: url("checkbox.png");
+    background-repeat: no-repeat;
+}
